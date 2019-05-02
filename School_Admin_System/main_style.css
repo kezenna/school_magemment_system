@@ -1,0 +1,24 @@
+$margin_variable = 10px;
+$padding_varible = 10px;
+font_size_normal = 17px;
+font_size_medium = 20px;
+font_size_large = 2.5em;
+
+*{
+	
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	
+}
+
+
+
+body{
+	margin:20px;
+	background:#eee;
+	font-size:
+	
+	
+	
+}
